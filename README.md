@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am interested in wired & wireless communications, radio frequency, software defined radios (SDR), hamradio, digital signal processing and digital signal processors (DSP), software development and engineering (with a focus on embedded systems), reverse engineering, IT security, space stuff & other things. This is also what most of my git repositories are about.
+
+📫 How to reach me: [twitter @maehw](https://twitter.com/maehw)
+
+[![maehws's GitHub stats](https://github-readme-stats.vercel.app/api?username=maehw)](https://github.com/anuraghazra/github-readme-stats) [![Most used languages (w/o JavaScript ad HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=maehw&hide=javascript,html,dart,lua&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **maehw/maehw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
